@@ -80,6 +80,9 @@ def get_japanese_emoticon (yml, eng)
   answer
 end
 
+
+
+
 def get_english_meaning (yml, jap)
   yml = load_library(yml)
   
